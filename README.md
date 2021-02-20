@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+February 20, 2021
 
-### Project Title
-Replace the Project Title
+### Explore US Bikeshare Data
+
 
 ### Description
-Describe what your project is about and what it does
+In this project, I used Python to understand U.S bikeshare data. I have calculated statistics and built an interactive environment where a user can choose the data and filter for a dataset to analyze.
 
 ### Files used
-Include the files used
+The file containing necessary code: bikeshare.py
+The data files not uploaded on the remote repo since the size is too big: chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This repo is forked from the following repo: https://github.com/udacity/pdsnd_github
